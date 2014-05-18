@@ -1,4 +1,4 @@
-white-nerdy-test
+The White & Nerdy test
 ================
 
 How [White & Nerdy](https://en.wikipedia.org/wiki/White_%26_Nerdy) are you?
